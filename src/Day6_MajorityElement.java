@@ -13,8 +13,6 @@
     Output: 2
  */
 
-import java.util.HashMap;
-
 public class Day6_MajorityElement {
     public static void main(String[] args){
         int[] input = new int[] {1,2,2,2,4,3,3,3,1,1,1};

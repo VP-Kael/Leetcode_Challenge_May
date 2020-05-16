@@ -30,9 +30,6 @@ Example 5:
     Output: 3
  */
 
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class Day10_FindtheTownJudge {
     public static void main(String[] args){
         int n = 1;
